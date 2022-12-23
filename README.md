@@ -1,2 +1,2 @@
 # alml01
-my aiml01 project
+此專案是nodejs專案
